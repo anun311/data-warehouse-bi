@@ -13,7 +13,7 @@ cd 01-data-modeling-i
 docker compose up
 ```
    
-3. run create-table.py (to drop and create table)
+3. run create-table.py (to drop and create table with structured databased)
 ```
 python create-table.py
 ```
@@ -21,3 +21,12 @@ python create-table.py
 ```
 python etl.py
 ```
+## Data Structured
+
+Relationship
+
+![image](https://github.com/user-attachments/assets/11631f95-53df-41c7-9a72-f92d01c4d50e)
+
+ER Diagram
+
+![image](https://github.com/user-attachments/assets/d2f24c51-db46-49db-8331-5b5a9a5b7d9b)
